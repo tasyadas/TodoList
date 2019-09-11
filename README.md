@@ -1,7 +1,7 @@
-1. show the python version installed;
+1. show the python version installed\
 
-    $ python -V
-    Python 3.6.8
+    $ python -V\
+    Python 3.6.8\
   
  2. create a working directory for your API and then setup a virtual environment.
 

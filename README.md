@@ -9,7 +9,9 @@
   
  2. create a working directory for your API and then setup a virtual environment.  
   
+    ```
     $ mkdir todolist && cd todolist
+    ```
  
 3. creates virtual enviroment named venv & activate it  
     
